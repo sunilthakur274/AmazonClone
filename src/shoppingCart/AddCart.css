@@ -1,0 +1,41 @@
+.add-items {
+  width: 300px;
+  height: 500px;
+  margin-left: 80px;
+}
+.add-item1 {
+  margin: 20px;
+  padding: 22px;
+  border: 1px solid grey;
+  border-radius: 10px;
+}
+.add-item2 {
+  color: #007185;
+}
+#btn1 {
+  width: 216px;
+  height: 37px;
+  margin-top: 20px;
+  background-color: yellow;
+  border: none;
+  border-radius: 25px;
+}
+#btn2 {
+  width: 216px;
+  height: 37px;
+  margin-top: 12px;
+  background-color: orange;
+  border: none;
+  border-radius: 25px;
+}
+#btn3 {
+  width: 216px;
+  height: 37px;
+  margin-top: 28px;
+  border: 1px solid lightgrey;
+  background-color: grey;
+}
+#btn4 {
+  margin-top: 12px;
+  width: 50px;
+}

@@ -1,0 +1,15 @@
+.imgg1 {
+  width: 100%;
+  display: flex;
+}
+.imgg2 {
+  margin: 13px;
+  background-color: white;
+  width: 312px;
+  height: 420px;
+  padding: 10px;
+  display: inline-block;
+}
+.imgg3 {
+  display: inline-block;
+}

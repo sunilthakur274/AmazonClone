@@ -1,0 +1,51 @@
+.add-cart
+{
+    width:75%;
+    display: flex;
+    height:300px;
+    
+}
+.cart-details
+{
+    margin:30px 0px 0px 50px ;
+}
+.cart-1
+{
+    margin:35px 0px 0px 50px  ;
+    width:100%;
+}
+.cart-mrp
+{
+    margin:35px 0px 0px 50px  ;
+    font-weight: 700;
+    font-size:22px;
+    color:#565959;
+}
+.main1
+{
+    width:85%;
+    background-color:#EAEDED;
+    padding:20px 20px 250px 20px;
+}
+.main3
+{
+    display: flex;
+}
+.main2
+{
+    background-color: white;
+}
+.heading-style
+{
+    font-size: 18px;
+    font-weight: 700;
+}
+.stock-style
+{
+    color:green;
+    font-size: 15px;
+}
+.textStyle 
+{
+    font-size: 14px;
+}

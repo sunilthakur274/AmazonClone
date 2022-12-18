@@ -1,0 +1,57 @@
+.login {
+  width: 350px;
+  margin-left: 50px;
+  margin-top: 50px;
+  border:2px solid lightgrey;
+  border-radius: 5px;
+  height: 450px;
+}
+#page1 {
+ 
+  height:500px;
+  margin-top: 88px;
+  margin-left:475px;
+  width: 500px;
+  
+}
+.content {
+  padding: 20px;
+  margin-left:2px;
+  margin-top: 2px;
+}
+#inpt1 {
+  background-color: #f0c14b;
+  width: 294px;
+  height: 29px;
+  outline-color: grey;
+  border: none;
+}
+#inpt2 {
+  width: 294px;
+  height: 29px;
+  outline-color: grey;
+}
+#s1 {
+  font-weight: 700;
+  font-size: 13px;
+}
+#s2 {
+  color: black;
+}
+#s3 {
+  font-size: 13px;
+}
+#amazone {
+  display: flex;
+  flex-direction: row;
+}
+#amazone1 {
+  margin-top: 9px;
+  width: 32%;
+  height: 0px;
+}
+#page {
+  color: rgba(9, 184, 134, 0.781);
+  
+}
+

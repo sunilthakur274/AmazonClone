@@ -1,0 +1,26 @@
+.container12 {
+  width: 100%;
+  height: 1970px;
+  background: rgb(15, 59, 58);
+  background: linear-gradient(
+    90deg,
+    rgba(15, 59, 58, 1) 0%,
+    rgba(24, 125, 102, 1) 52%,
+    rgba(160, 166, 164, 1) 99%
+  );
+}
+.a34 {
+  background-color: red;
+}
+.box1 {
+  color: white;
+  width: 50%;
+  margin: 100px 0px 0px 200px;
+}
+#image12 {
+  display: flex;
+  /* background:linear-gradient(to right,#04594a,#3c6960,#88b5ad) ; */
+}
+#a10 {
+  margin-top: 50px;
+}

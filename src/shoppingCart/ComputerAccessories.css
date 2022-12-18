@@ -1,0 +1,12 @@
+.mainacc {
+  width: 100%;
+}
+.acc {
+  height: 300px;
+  background-color: white;
+  margin: 12px 12px 0px 12px;
+}
+.subacc {
+  height: 100px;
+  margin: 12px 0px 0px 12px;
+}

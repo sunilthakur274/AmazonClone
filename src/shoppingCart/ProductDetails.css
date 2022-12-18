@@ -1,0 +1,36 @@
+.item-details
+{
+    display: flex;
+    width: 100%;
+}
+.heading
+{
+    width:427px;
+    /* margin-left:-200px; */
+    margin-top: 0px;
+    padding: 20px;
+}
+.brand
+{
+    color: #007185;
+}
+.img1
+{
+  
+}
+.img2
+{
+    width: 450px;
+    height: 370px;
+    background-color: #f5f5f5;
+    margin: 10px;
+    margin-left:40px;
+}
+.icons
+{
+    display: flex;
+    border:1px solid lightgrey;
+    border-left: none;
+    border-right: none;
+    padding: 10px;
+}

@@ -1,0 +1,23 @@
+.register {
+  width: 400px;
+  height:  500px;
+  background-color: white;
+  border:2px solid lightgrey;
+  margin:10px 0px 0px 480px;
+}
+#input13 {
+  outline: 1px grey;
+  font-size: 13px;
+  border-top: none;
+  border-left: none;
+  border-right: none;
+  margin-left: 20px;
+  margin: 20px 10px 10px 10px;
+}
+#btn12 {
+  margin: 20px 20px 20px 80px;
+  width: 250px;
+  height: 30px;
+  background-color: #f0c14b;
+  border: none;
+}

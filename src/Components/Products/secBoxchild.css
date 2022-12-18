@@ -1,0 +1,18 @@
+#image {
+  width: 122px;
+  height: 100px;
+}
+.image1 {
+  width: 90px;
+  display: inline-block;
+  margin: 10px 40px 0px 10px;
+}
+.image2 {
+  width: 100%;
+}
+#ar {
+  margin-bottom: 20px;
+}
+#ar1 {
+  color: black;
+}

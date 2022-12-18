@@ -1,0 +1,21 @@
+.text
+{
+    font-size:30px;
+    margin:10px;
+    width:100%;
+    border: 2px solid transparent;
+    
+     
+}
+.text:hover
+{
+    border:2px solid white;
+}
+.count
+{
+    font-size:15px;
+    margin-left:14px;
+    display:absolute;
+    margin-top:6px;
+    margin-bottom:-8px; 
+}

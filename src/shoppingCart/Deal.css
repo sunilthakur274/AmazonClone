@@ -1,0 +1,51 @@
+.products
+{
+    margin-left:12px;
+    margin-top: 20px;
+    width:250px;
+    height:450px;
+}
+.product-item
+{
+    background-color: brown;
+    color: white;
+    font-weight:700;
+    width:100px;
+}
+.product-item1
+{
+    color: #cc0c39;
+    font-size: 12px;
+    font-weight: 700;
+    margin-left:20px;
+}
+.products-items
+{
+    display: flex;
+    align-items: center;
+    margin-top: 20px
+}
+.product-item2
+{
+    font-size: 13px;
+    margin-top: 7px;
+}
+.product-items
+{
+    background-color: #f5f5f5;
+}
+.maindiv
+{
+    display: flex;
+}
+.today-deal
+{
+    width:100%;
+}
+.subdiv
+{
+    height: 420px;
+    margin-left:12px;
+    margin-right:12px;
+    background-color: white;
+}

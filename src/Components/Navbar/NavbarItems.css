@@ -1,0 +1,46 @@
+
+#img1 {
+  border: 2px solid transparent;
+}
+.item1 {
+  background-color: #000e1b;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  height: 50px;
+  width: 100%;
+  color: white;
+}
+.itema1 {
+  margin-left: 10px;
+  border: 2px solid transparent;
+  width: 10%;
+}
+.item2 {
+  border: 2px solid transparent;
+  width: 8%;
+  margin-left: 100px;
+}
+.item3 {
+  border: 2px solid transparent;
+  width: 8%;
+  margin-left: 10px;
+}
+.item4 {
+  border: 2px solid transparent;
+  width: 5%;
+  margin-left: 50px;
+}
+.item2:hover {
+  border: 2px solid white;
+}
+.item3:hover {
+  border: 2px solid white;
+}
+.item4:hover {
+  border: 2px solid white;
+}
+
+#img1:hover {
+  border: 2px solid white;
+}
